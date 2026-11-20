@@ -1,8 +1,6 @@
 # Welcome to the Python Track
 
 ## My Name
-
-Write your name.
 My Name is Jalla Naga Jyothi
 # What I Learned in Foundation Month
 
